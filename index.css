@@ -1,0 +1,44 @@
+html {
+    background-color:lightgray;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+#Texto {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: white;
+}
+
+.link {
+    color:black;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.row {
+    background-color: lightgray;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+h1 {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.card-title {
+    color:blue;
+}
+
+.card-body {
+    background-color: white;
+    margin-top: 15px;
+    text-align: justify;
+}
+
+.card-footer {
+    background-color: white;
+}
